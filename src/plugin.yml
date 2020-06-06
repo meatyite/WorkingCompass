@@ -1,0 +1,6 @@
+name: WorkingCompass
+version: 1.0
+author: sl4v
+description: Adds a working compass
+api-version: 1.15
+main: me.sl4v.workingcompass.WorkingCompass
